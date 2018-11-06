@@ -1,0 +1,4 @@
+Que si pulsas izquierda y derecha a la vez no se quede quieto sino que coja la de la ultima que se a pulsado.
+
+Si estas en una pared al ser on trigger enter los saltos no se resetean porq no sales del trigger.
+
