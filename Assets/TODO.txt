@@ -2,3 +2,6 @@ Que si pulsas izquierda y derecha a la vez no se quede quieto sino que coja la d
 
 Si estas en una pared al ser on trigger enter los saltos no se resetean porq no sales del trigger.
 
+Si saltas al casi tocar la plataforma no salta. y tampoco si saltas casi justo cuando acaba.
+
+Pensar como no tener que llamar los ataques como variables publicas.
